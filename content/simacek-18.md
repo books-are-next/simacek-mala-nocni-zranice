@@ -1,0 +1,15 @@
+---
+contentType: prose
+---
+
+<section>
+
+pan šedý
+
+Na toaletu jsem si zašel raději až v bezpečí našeho bytu v prvním patře. I když v bezpečí zřejmě jen pomyslném, možná tu ani v bezpečí nejsme. Já a moje žena totiž vůbec nemusíme být v bezpečí, pokud žijeme pod jednou střechou s narkomanem. Nejsem sice specialista, ale přeci jen si snad dokážu utvořit určitou představu o problematickém chování drogově závislých jedinců. Neštítí se drobných krádeží ani větších krádeží, pokud si potřebují zajistit prostředky na drogy. Také nerespektují žádná pravidla, jednají zcela sobecky a asociálně. Už řadu let vím, že můj švagr je mýtoman — patologický lhář. Před lety mě překvapil vyprávěním o svých kynologických zkušenostech, vyprávěl mi o svém psu Ignácovi, který podle jeho líčení měl až neuvěřitelné schopnosti a dovednosti, nikoli nepodobné psovi ze seriálu Komisař Rex. Ovšem ještě ten den mi manželka prozradila, že nikdy žádného psa neměli, že si ho její bratr prostě vymyslel. Mýtoman! Navíc to, jak se obléká, rozšklebená lebka na tričku muže, kterému už dávno bylo třicet, svědčí o naprosté zanedbanosti. Kdysi jsem četl jistou studii, jejíž autor poukázal na zajímavou skutečnost. Totiž na specifika v pokojích mladých narkomanů. Autor této studie vypozoroval, že zařízení pokojů nebo bytů u běžné mládeže poměrně přesně vypovídá o věku a zájmech jejich obyvatel. Chlapci mají do určitého věku na zdech pokojíků fotografie závodních aut nebo třeba sportovních hvězd, které později, jak se proměňují jejich zájmy, vystřídají obrázky rockových hudebníků nebo i obrazy s erotickou tematikou; prostě mezi třináctým a třiadvacátým rokem si běžný dospívající hoch mnohokrát změní výzdobu svého pokoje podle toho, jak se s věkem proměňují jeho zájmy. Pokud však dítě propadne droze, čas v jeho pokoji jako by se zastavil. Výzdoba jeho pokoje se neproměňuje v čase, protože kromě drogy nemá takový dospívající žádný jiný zájem. Takže ve dvaceti letech visí na zdech pokoje zaprášené obrazy závodních automobilů z doby před pěti lety.
+
+Dosud jsem se nikdy nepustil dál než do předsíně. Že by se mi chtělo nakukovat do jeho doupěte, to se mi tedy skutečně nechce. Ovšem tohle je otázka odpovědnosti. A dost možná i otázka bezpečnosti. Chtě nechtě se musím podívat do bytu svého švagra. Ten strašlivý nepořádek jsem mohl čekat, rozhodně mě nijak nepřekvapuje. Ovšem tohle? Jediné místo na zdi není volné, celé plochy stěn má vytapetované malými čtvercovými obrázky — titulní ilustrace rockových CD disků. Výzdoba zjevně odpovídající věkové kategorii středoškoláka. Dobře, Michal je poměrně neinteligentní, až zaostalý. Zaostalý hoch by mohl mít na stěně takovou výzdobu klidně i ve dvaceti, třiadvaceti letech. Mému švagrovi je teď ovšem dávno přes třicet. Tedy přibližně o patnáct let víc. Přesně toho jsem se obával. Před mnoha lety se v jeho bytě zastavil čas.
+
+Manželka není doma. To je dobře, to je jenom dobře. Než jí to řeknu, měl bych si rozmyslet určitou strategii. Ale tchána musím informovat neprodleně. Koneckonců tohle je především starost mého tchána, ten ať si řeší tyto závažné rodinné problémy sám.
+
+</section>

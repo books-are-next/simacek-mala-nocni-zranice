@@ -1,0 +1,17 @@
+---
+contentType: prose
+---
+
+<section>
+
+pan šedý
+
+S námahou vystupuji z vozu u první benzinové stanice směrem na Brno. Z lednice vezmu velkou láhev balené vody, skoro polovinu hned vypiju a pak si chladnou láhev přitisknu na zátylek a zavřu oči. Maličkost, tohle měla být maličkost, jednoduchý úkol na necelou hodinku, a já jsem zatím schvácený hůř než po šichtě v uranových dolech. Tedy, ovšemže jsem nikdy v uranových dolech nebyl, ale nějakou představu o tom, s jakou námahou se uran dobývá, si snad udělat dokážu. Na lecjaké vrtochy svého tchána a na jeho nemožné poznámky na mou adresu už bych měl být za ty roky zvyklý. Přesto ani po všech těch letech jsem se nedokázal úplně obrnit. To mám ovšem za svou velkorysost, nabídl jsem tchánovi drobnou službu a on mi z pondělního dopoledne udělal peklo. Inženýr Hromek musí v sobě mít skutečně něco ďábelského, když dokáže člověka během takové chvilky usoužit. Měl mi vlastně poděkovat, že? Ale to on ne. Samozřejmě jsem od něj neslyšel jediné slovo vděku, místo toho se dokonce opovážil praštit mě po ruce holí, jako nějakého školáka. Dnešek mi měl přinést úlevu, měl mě osvobodit, udělat mě konečně pánem svého domu.
+
+Jste normální nebo co? zařval na mě pokladní na čerpací stanici a hrubě mě strčil do ramene. Láhev s vodou mi málem vypadla z ruky. Ptám se, jestli jste normální. Co se tady sakra válíte? Tohle je místo pro lidi, kteří si něco objednají. Kávu nebo párky nebo prostě něco. Vy tady dřepíte už půl hodiny a nic, akorát chlemtáte vodu z láhve a ani jste ji nezaplatil. A parkujete mi u stojanu, doprdele, benzinka není parkoviště.
+
+Mimořádně hostilní typ, nemá smysl se s ním vůbec dávat do řeči. U pokladny přesně odpočítám drobné, zaplatím vodu a jdu k autu. Moment, okamžik, teď jsem narychlo vypil skoro litr vody, takže přeci musím ještě na záchod. Otáčím se, abych se vrátil. Ale ve dveřích stojí pokladní benzinové stanice s rukama založenýma na prsou a celým tělem ucpává vchod. Arogantní primitiv. Přetlačovat se s ním ve dveřích nehodlám, nastoupím do vozu a vyrážím k Brnu. Konečně trocha klidu. I polední dopravní špička působí oproti cestě s tchánem celkem uklidňujícím dojmem. Pokud se nedostanu do zácpy, v klidu přijedu k domu, zajdu si konečně na toaletu… V přízemí! Zajdu si na toaletu v přízemí. Vstoupím do přízemního bytu rázně a bez klepání, tentokrát nebudu přešlapovat v předsíni, nebudu čekat, jestli se inženýr Hromek uráčí reagovat na moje klepání. On ten nahluchlý popleta vlastně na moje klepání nikdy nereagoval. Ten otravný člověk mě snad za celé ty roky nikdy nepozval dál. No, a teď je konečně pryč, přeci jen ta hrozná cesta stála za to, inženýra Hromka jsem definitivně odvezl do minulosti.
+
+Stálo to za to. Konečně doma. Odskočím si na toaletu, pak se porozhlédnu po nové pracovně. Energicky vstupuji do bytu, který ještě dnes ráno obýval tchán. Co? Co tady proboha dělá? V kuchyni přízemního bytu stojí švagr — bosý, v trenýrkách a černém tričku, ze kterého mu vyčuhují bílé špeky. Když se otočí, všimnu si na tlusťochově tričku bílé smějící se lebky s nasazenou královskou korunou, pod lebkou je nápis We want you. Odtrhnu pohled od lebky na odporném pupku mého švagra a pohlédnu výš. On má na očích plavecké brýle a v ruce injekční stříkačku! Co tu děláš? Máš problémy s drogama? Bratr mé manželky zmateně zamumlal cosi o tom, že přežije týden. Jak týden? Co tím myslí, že přežije týden? Rychle odsud pryč.
+
+</section>
