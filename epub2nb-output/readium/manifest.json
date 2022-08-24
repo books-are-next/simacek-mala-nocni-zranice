@@ -1,0 +1,776 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Malá noční žranice",
+    "identifier": "urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b",
+    "author": "Jiří Šimáček",
+    "publisher": "Host – vydavatelství, s.r.o.",
+    "language": "cs-CZ",
+    "published": "2014-12-18T00:00:00.000Z",
+    "description": "Malá noční žranice se stejně jako předchozí autorovy knihy odehrává v současném Brně a je s nimi volně propojena i některými postavami. Líčí osudy stárnoucího vdovce, který se nedokáže smířit s životní situací svých dětí: syna, který navzdory střednímu věku nepracuje a tvrdošíjně odmítá dospět, a dcery žijící s ambiciózním, avšak neschopným kariéristou. Jejich vzájemné soužití v jednom domě proto přináší řadu konfliktních situací a nedorozumění. Šimáčkova próza není na první pohled založena na výrazných dějových zvratech, ale jakoby mimochodem popisuje banální rodinná dramata a traumata. Pro jednotlivé aktéry je však jejich intenzita téměř osudová. Ironická, až groteskní forma monologu „nedůvěryhodných“ vypravěčů, kteří líčí příběh ze svého omezeného hlediska, nechává ale nakonec na čtenáři, aby si sám domyslel a seskládal skutečný sled událostí.",
+    "subject": [
+      "Host",
+      "Nakladatelství Host"
+    ],
+    "generator": "Adobe InDesign",
+    "cover": "cover.png"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-1.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-2.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-3.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-4.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-5.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-6.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-7.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-8.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-9.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-10.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-11.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-12.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-13.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-14.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-15.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-16.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-17.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-18.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-19.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-20.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-21.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-22.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-23.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-24.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-25.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-26.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-27.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-28.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-29.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-30.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-31.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-32.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-33.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-34.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-35.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-36.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-37.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-38.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-39.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-40.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-41.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-42.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-43.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-44.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-45.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-46.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-47.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-48.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-49.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-50.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-51.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-52.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-53.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-54.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-55.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-56.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-57.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-58.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-59.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-60.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-61.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-62.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-63.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-64.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-65.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-66.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-67.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-68.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-69.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-70.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-71.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-72.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-73.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-74.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-75.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-76.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-77.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-78.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-79.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-80.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-81.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-82.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-83.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-84.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-85.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-86.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-87.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-88.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-89.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-90.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-91.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Simacek-92.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/template.css"
+    },
+    {
+      "type": "image/png",
+      "height": 1024,
+      "width": 669,
+      "rel": "cover",
+      "href": "OEBPS/images/cover.png"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/fonts/Campton-Medium.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/fonts/Campton-SemiBold.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/fonts/PermianSerifTypeface.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/fonts/PermianSerifTypeface-Italic.otf"
+    }
+  ],
+  "toc": [
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-5.html#toc_marker-1"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-6.html#toc_marker-2"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-7.html#toc_marker-3"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-8.html#toc_marker-4"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-9.html#toc_marker-5"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-10.html#toc_marker-6"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-11.html#toc_marker-7"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-12.html#toc_marker-8"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-13.html#toc_marker-9"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-14.html#toc_marker-10"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-15.html#toc_marker-11"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-16.html#toc_marker-12"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-17.html#toc_marker-13"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-18.html#toc_marker-14"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-19.html#toc_marker-15"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-20.html#toc_marker-16"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-21.html#toc_marker-17"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-22.html#toc_marker-18"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-23.html#toc_marker-19"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-24.html#toc_marker-20"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-25.html#toc_marker-21"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-26.html#toc_marker-22"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-27.html#toc_marker-23"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-28.html#toc_marker-24"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-29.html#toc_marker-25"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-30.html#toc_marker-26"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-31.html#toc_marker-27"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-32.html#toc_marker-28"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-33.html#toc_marker-29"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-34.html#toc_marker-30"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-35.html#toc_marker-31"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-36.html#toc_marker-32"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-37.html#toc_marker-33"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-38.html#toc_marker-34"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-39.html#toc_marker-35"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-40.html#toc_marker-36"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-41.html#toc_marker-37"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-42.html#toc_marker-38"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-43.html#toc_marker-39"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-44.html#toc_marker-40"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-45.html#toc_marker-41"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-46.html#toc_marker-42"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-47.html#toc_marker-43"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-48.html#toc_marker-44"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-49.html#toc_marker-45"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-50.html#toc_marker-46"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-51.html#toc_marker-47"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-52.html#toc_marker-48"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-53.html#toc_marker-49"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-54.html#toc_marker-50"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-55.html#toc_marker-51"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-56.html#toc_marker-52"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-57.html#toc_marker-53"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-58.html#toc_marker-54"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-59.html#toc_marker-55"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-60.html#toc_marker-56"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-61.html#toc_marker-57"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-62.html#toc_marker-58"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-63.html#toc_marker-59"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-64.html#toc_marker-60"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-65.html#toc_marker-61"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-66.html#toc_marker-62"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-67.html#toc_marker-63"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-68.html#toc_marker-64"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-69.html#toc_marker-65"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-70.html#toc_marker-66"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-71.html#toc_marker-67"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-72.html#toc_marker-68"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-73.html#toc_marker-69"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-74.html#toc_marker-70"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-75.html#toc_marker-71"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-76.html#toc_marker-72"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-77.html#toc_marker-73"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-78.html#toc_marker-74"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-79.html#toc_marker-75"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-80.html#toc_marker-76"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-81.html#toc_marker-77"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-82.html#toc_marker-78"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-83.html#toc_marker-79"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-84.html#toc_marker-80"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-85.html#toc_marker-81"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-86.html#toc_marker-82"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-87.html#toc_marker-83"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-88.html#toc_marker-84"
+    },
+    {
+      "title": "pan šedý",
+      "href": "OEBPS/Simacek-89.html#toc_marker-85"
+    },
+    {
+      "title": "pan syn",
+      "href": "OEBPS/Simacek-90.html#toc_marker-86"
+    },
+    {
+      "title": "pan otec",
+      "href": "OEBPS/Simacek-91.html#toc_marker-87"
+    }
+  ]
+}

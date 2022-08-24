@@ -1,0 +1,15 @@
+---
+contentType: prose
+---
+
+<section>
+
+pan šedý
+
+Tady nešlo o nějaký pokus o sebevraždu. Tohle byl daleko spíše pokus o vraždu. Jistě, šlo o atentát. Stačilo, abych si jen minimálně srovnal myšlenky, abych na okamžik odešel z domu a nazřel situaci z jiné perspektivy, a měl jsem jasno. Na tohle stačí drobná špetka toho nejobyčejnějšího selského rozumu. Měl jsem na to přijít okamžitě. Vlastně jsem na to přišel okamžitě. Vražda — tohle byla nedokonaná vražda. Švagr se pokusil zabít mou ženu. Motiv je jasný: aby nemusel podstoupit jednoduchou operaci, tak se prostě rozhodl, že ji zabije. Chtěl ji otrávit alkoholem a zřejmě jí ještě přivodit selhání ledviny pomocí mnohačetné, násobené dietní chyby. Jistě, nelze předpokládat, že by Michal Hromek měl nějaké hluboké znalosti o dietě při ledvinové nedostatečnosti, ale i takový primitiv jako on asi tuší, že noční předávkování nezdravým jídlem a velkým množstvím alkoholu pravděpodobně povede k závažným důsledkům. Pravděpodobně k těm nejzávažnějším. Tak tedy pokus o vraždu. Švagr je naprostý budižkničemu, patologický lhář, pravděpodobně i narkoman, a teď se ukazuje, že se nejspíš neštítí ani vraždy. Ovšem to, že se pokusil otrávit vlastní sestru kvůli tak ubohému, nanicovatému motivu, jako je lenost a neochota k drobné oběti, toho bych se opravdu nenadál. Jistě, takové kreatury, jako je Michal Hromek, jsou nepochybně schopny jakékoli podlosti kvůli úplně malicherným motivacím. Nemělo mě to vůbec překvapit, vždyť jako pedagog se často setkávám s cynismem téhle generace. No, vlastně mě to ani nepřekvapilo, odhalil jsem ho skoro okamžitě. Ovšem ještě dlouho si zřejmě budu klást otázku, zda jsem neměl něco podobného dokonce předpokládat. Může ovšem slušný a zodpovědný člověk předvídat jednání takových individuí, jako je můj švagr? Měl bych poněkud vystoupit ze své slonovinové věže a na okamžik se pokusit přestat uvažovat jako vědec, jako špičkový znalostní pracovník. Musím uvažovat jako kriminálník, který se neštítí vraždy…
+
+Ta myšlenka přišla náhle jako záblesk. Okamžitý úder jakéhosi podivného, zvráceného osvícení. Moje mysl jako by se na okamžik propojila s myslí Michala Hromka a v tom okamžiku se leccos vyjasnilo. Zahálka, nicnedělání (sic!). Ano. Jistě. K tomu přece švagr potřebuje peníze (sic!). Peníze jsou tím hlavním motivem (sic!). Samozřejmě, tady jde o dědictví. Spočítal si, že pokud by jeho sestra zemřela, bude jediným dědicem a získá dostatek prostředků pro své nekonečné zahálení.
+
+Ohromující! Po chvíli se dostavilo téměř úplné vyčerpání… Podlost mého švagra mě ohromila vlastně mnohem méně než výkon mé vlastní mysli. Ta rychlost uvažování, ta koncentrovaná duchovní schopnost napojit se na proud cizích myšlenek… Takové nečekané výkony nepochybně přesahují standard běžných kognitivních schopností.
+
+</section>

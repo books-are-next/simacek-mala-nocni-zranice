@@ -1,0 +1,181 @@
+@font-face {
+  font-family: "Campton Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url(fonts/Campton-Medium.otf);
+  }
+@font-face {
+  font-family: "Campton SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url(fonts/Campton-SemiBold.otf);
+  }
+@font-face {
+  font-family: PermianSerifTypeface;
+  font-style: normal;
+  font-weight: normal;
+  src: url(fonts/PermianSerifTypeface.otf);
+  }
+@font-face {
+  font-family: PermianSerifTypeface;
+  font-style: italic;
+  font-weight: normal;
+  src: url(fonts/PermianSerifTypeface-Italic.otf);
+  }
+tbody, thead, tfoot, tr, td, th {
+  border-style: inherit;
+  border-width: inherit;
+  border-color: inherit;
+}
+.leftFloat {
+  float: left;
+}
+.rightFloat {
+  float: right;
+}
+span.verzalky {
+  font-size: 0.75em;
+  font-variant: normal;
+}
+span.italic {
+  font-weight: normal;
+  font-style: italic;
+}
+p.T1 {
+  font-family: PermianSerifTypeface, serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.83em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.3;
+  text-align: justify;
+  text-indent: 0;
+  margin: 1.6em 0 0 0;
+}
+p.T1a {
+  font-family: PermianSerifTypeface, serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.83em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.3;
+  text-align: left;
+  text-indent: 0;
+  margin: 0;
+}
+p.T2a {
+  font-family: PermianSerifTypeface, serif;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 0.83em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.3;
+  text-align: left;
+  text-indent: 0;
+  margin: 0 1.3em;
+}
+p.T2 {
+  font-family: PermianSerifTypeface, serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.83em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.3;
+  text-align: justify;
+  text-indent: 1.3em;
+  margin: 0;
+}
+p.T3 {
+  font-family: "Campton SemiBold", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.5;
+  text-align: left;
+    color: #666;
+  text-indent: 0;
+  margin: 0;
+}
+p.T5a {
+  font-family: "Campton Medium", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 1.58em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.32;
+  text-align: left;
+  text-indent: 0;
+  margin: 0;
+}
+p.T5b {
+  font-family: "Campton SemiBold", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 2.5em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.33;
+  text-align: left;
+  text-indent: 0;
+  margin: 0;
+}
+p.T5c {
+  font-family: "Campton Medium", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 1.25em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.33;
+  text-align: left;
+  text-indent: 0;
+  margin: 40px 0 0 0;
+}
+p.T5d {
+  font-family: "Campton SemiBold", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 1em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0;
+}
+p.T5e {
+  font-family: "Campton SemiBold", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 1.33em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  margin: 0;
+}
+p.PB {
+  font-family: PermianSerifTypeface, serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 0.83em;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.3;
+  text-align: center;
+  text-indent: 0;
+  margin: 0;
+}
+p.para-style-override-1 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}

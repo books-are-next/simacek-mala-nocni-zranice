@@ -1,0 +1,119 @@
+---
+outputs: meta
+slug: book
+contentType: prose
+languageCode: en
+meta:
+  title: Malá noční žranice
+  identifier: urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b
+  author: Jiří Šimáček
+  publisher: Host – vydavatelství, s.r.o.
+readingOrder:
+  - promo.html
+  - simacek.html
+  - simacek-1.html
+  - simacek-2.html
+  - simacek-3.html
+  - simacek-4.html
+  - simacek-5.html
+  - simacek-6.html
+  - simacek-7.html
+  - simacek-8.html
+  - simacek-9.html
+  - simacek-10.html
+  - simacek-11.html
+  - simacek-12.html
+  - simacek-13.html
+  - simacek-14.html
+  - simacek-15.html
+  - simacek-16.html
+  - simacek-17.html
+  - simacek-18.html
+  - simacek-19.html
+  - simacek-20.html
+  - simacek-21.html
+  - simacek-22.html
+  - simacek-23.html
+  - simacek-24.html
+  - simacek-25.html
+  - simacek-26.html
+  - simacek-27.html
+  - simacek-28.html
+  - simacek-29.html
+  - simacek-30.html
+  - simacek-31.html
+  - simacek-32.html
+  - simacek-33.html
+  - simacek-34.html
+  - simacek-35.html
+  - simacek-36.html
+  - simacek-37.html
+  - simacek-38.html
+  - simacek-39.html
+  - simacek-40.html
+  - simacek-41.html
+  - simacek-42.html
+  - simacek-43.html
+  - simacek-44.html
+  - simacek-45.html
+  - simacek-46.html
+  - simacek-47.html
+  - simacek-48.html
+  - simacek-49.html
+  - simacek-50.html
+  - simacek-51.html
+  - simacek-52.html
+  - simacek-53.html
+  - simacek-54.html
+  - simacek-55.html
+  - simacek-56.html
+  - simacek-57.html
+  - simacek-58.html
+  - simacek-59.html
+  - simacek-60.html
+  - simacek-61.html
+  - simacek-62.html
+  - simacek-63.html
+  - simacek-64.html
+  - simacek-65.html
+  - simacek-66.html
+  - simacek-67.html
+  - simacek-68.html
+  - simacek-69.html
+  - simacek-70.html
+  - simacek-71.html
+  - simacek-72.html
+  - simacek-73.html
+  - simacek-74.html
+  - simacek-75.html
+  - simacek-76.html
+  - simacek-77.html
+  - simacek-78.html
+  - simacek-79.html
+  - simacek-80.html
+  - simacek-81.html
+  - simacek-82.html
+  - simacek-83.html
+  - simacek-84.html
+  - simacek-85.html
+  - simacek-86.html
+  - simacek-87.html
+  - simacek-88.html
+  - simacek-89.html
+  - simacek-90.html
+  - simacek-91.html
+  - simacek-92.html
+tocBase:
+  - id: section-1
+    children: []
+    isSection: true
+static:
+  - style
+  - scripts
+  - title
+  - fonts
+  - resources
+  - template-images
+  - assets
+  - favicon.png
+---

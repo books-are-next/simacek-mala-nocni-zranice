@@ -1,0 +1,11 @@
+---
+contentType: prose
+---
+
+<section>
+
+pan syn
+
+Fakt nerozumím tomu, proč tatík pořád hraje takovýho suchara. Kdyby aspoň furt nevypadával z role, tak neřeknu, ale on na to nemá. Je prostě vidět, že mu to nesedne, stačí ho lehce postrčit a uděláte z něj týpka, co snídá pivo a zakusuje k němu kaviár nabíranej polívkovou lžící. A tak je to se vším, vždycky se tvářil, že jako bude buzerovat, ale během půl hodiny ho to přestalo bavit. Když jsem byl malej, tak kvůli škole nebo pak kvůli práci na všechno zkoušel nahodit protivnej komisní ksicht, kterej mu ale nikdy nevydržel dýl než pár minut. Jenomže to mi došlo pozdě, dost dlouho jsem mu tu sucharskou masku žral. Úplně zbytečně, kdybych domů jako děcko přitáhl nějakýho psa nebo klidně opici, buzeroval by půl hodiny a pak to mohlo bejt v suchu. Jenomže to vím až teď, tehdy jsem prostě jenom nadhodil, třeba to, že bysme si mohli pořídit psa, na to tatík reagoval nasazením sucharský masky a půlhodinovým vysvětlováním, proč to jako nejde, a mě to po deseti minutách unavilo. A takhle on vždycky vyhrál, po deseti minutách mě utahal. Kdybych věděl to, co vím dnes, mohl jsem si sakra dělat, co jsem chtěl, prostě bych jenom musel vydržet půlhodinovou buzeraci, a pak by byl klid. Proč mě to sakra nedošlo dřív? Škoda. Tak teď tatík odjíždí a mě najednou napadlo, že jsem měl celkem šanci docela rozumně se tady s ním zařídit. Pozdě, no nevadí, zařídím se sám. Dole si udělám novou kuchyň a budu se asi trochu věnovat vaření. Nebo si tam udělám poslechovou místnost a nebo oboje, časem. Ale co teda bude tatík dělat v domově důchodců, to asi neví ani on sám, nejspíš jsem měl nějak zasáhnout a tu blbost mu vymluvit. Jenomže já prostě nemám ve zvyku míchat se lidem do jejich věcí. Teda pokud to není nutný, tak se jinejm lidem do jejich věcí nepletu, a ono to není nutný skoro nikdy. Ale když koukám, jak švagr odváží otce s taškou kamsi do Rajhradu, nevím, jestli to třeba tentokrát není ten případ, kdy to nutný bylo. Koukám na ségru, jestli něco neřekne. Ne. Neřekla nic, akorát začala ve dřezu šudlat nádobí. Já tady nahoře nemám myčku, takže mám toho nádobí ve dřezu občas trochu víc. A tak si dám ještě pivko, počkám, až ségra umyje to nádobí, a pak teda opravdu nevím, co budu dělat. Co bych dělal normálně, kdyby byl otec doma? Asi nic.
+
+</section>
