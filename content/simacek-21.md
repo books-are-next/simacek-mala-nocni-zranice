@@ -1,12 +1,11 @@
 ---
+title: "Alespoň že inženýr Hromek nebere tuto situaci na lehkou váhu\\. Upřímně řečeno jsem měl obavy, že se tchán pokusí problém bagatelizovat, zavírat před ním oči nebo svého syna nějak omlouvat\\. Ale naopak, pověřil mě, abych prohledal dům a\_pokusil se najít stopy po výrobně drog\\. Možná tchán nakonec ví víc, než jsem vůbec tušil\\. Nejedná se tedy zřejmě jen o\_konzumaci drog, švagr je nejspíš zapojen přímo do výroby narkotik\\. Jistě, to by leccos vysvětlovalo, vysvětlovalo by to zejména to, jak je možné, že nikdy neměl žádné zaměstnání a\_za celých pět let, co zde bydlím, nevykonával žádnou běžnou pracovní činnost\\. Zřejmě vlastní výrobnu drog\\. Zní to příliš absurdně? Nezní, že ne? Absurdně to nezní ani inženýru Hromkovi, od něhož jsem dostal pověření to prokázat a\_všechno vyfotografovat\\."
 contentType: prose
 ---
 
 <section>
 
 pan šedý
-
-Alespoň že inženýr Hromek nebere tuto situaci na lehkou váhu. Upřímně řečeno jsem měl obavy, že se tchán pokusí problém bagatelizovat, zavírat před ním oči nebo svého syna nějak omlouvat. Ale naopak, pověřil mě, abych prohledal dům a pokusil se najít stopy po výrobně drog. Možná tchán nakonec ví víc, než jsem vůbec tušil. Nejedná se tedy zřejmě jen o konzumaci drog, švagr je nejspíš zapojen přímo do výroby narkotik. Jistě, to by leccos vysvětlovalo, vysvětlovalo by to zejména to, jak je možné, že nikdy neměl žádné zaměstnání a za celých pět let, co zde bydlím, nevykonával žádnou běžnou pracovní činnost. Zřejmě vlastní výrobnu drog. Zní to příliš absurdně? Nezní, že ne? Absurdně to nezní ani inženýru Hromkovi, od něhož jsem dostal pověření to prokázat a všechno vyfotografovat.
 
 S malým digitálním fotoaparátem vycházím zadním vchodem přímo na zahradu. Je jisté, že Michal Hromek neměl šanci mě zpozorovat, když jsem zamířil ke skleníku. Je prázdný, jen v rohu se válí několik zaprášených květináčů a vedle nich malá motyčka a lopatka. Několikrát je vyfotografuji a pro jistotu ještě květináče rozložím a každý zvlášť prohlédnu. Ovšem neobjevil jsem nic zvláštního. Dobře, takže sklep. V první místnosti je jen plynový kotel, který vytápí dům, jinak je místnost prázdná, možná až podezřele prázdná. Pořídím několik fotografií a pokračuji do další místnosti — dvoje lyže, starý, zjevně nepojízdný bicykl, kolečka, dvě lopaty, odhrnovač sněhu, dřevěná bedna s nářadím. V rohu leží ještě dvě papírové krabice se zbytky obkladaček, stejných, jaké jsou v koupelně našeho bytu. Papírové krabice jsou provlhlé. Vyfotografuji krabice i celkový pohled do místnosti a odcházím; musím připustit, že pociťuji jisté zklamání. Pokud tu někdy byla laboratoř na výrobu pervitinu, musel ji švagr už před nějakou dobou přemístit.
 

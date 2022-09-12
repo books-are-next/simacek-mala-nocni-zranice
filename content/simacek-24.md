@@ -1,12 +1,11 @@
 ---
+title: "Teď zadržet dech, nehýbat se, hlavně se ani milimetr nepohnout, a\_velmi zlehka stisknout spoušť\\. Tááák\\. Teprve teď výdech\\."
 contentType: prose
 ---
 
 <section>
 
 pan šedý
-
-Teď zadržet dech, nehýbat se, hlavně se ani milimetr nepohnout, a velmi zlehka stisknout spoušť. Tááák. Teprve teď výdech.
 
 Nepatřím k lidem, kteří se snadno vzdávají kvůli technickým obtížím. Jistě, nemám stativ, bez stativu by to nejspíš leckdo vzdal, ale já nejsem leckdo. Nejsem sice profesionální fotograf, nemám ani profesionální vybavení, přesto ovládám technickou stránku fotografie vcelku slušně. S vypnutým bleskem a citlivostí fotoaparátu nastavenou na maximální hodnotu 1600 ASA velmi lehce mačkám spoušť a podařilo se mi zachytit dva výrostky, kteří pod švagrovým dohledem lezou na střechu mého vozu. Vzhledem k pouličnímu osvětlení budou snímky myslím celkem zřetelné. Pokud by se některý z nich podíval směrem k domu, směrem k oknu, snad bych mohl pořídit i snímek s rozpoznatelným obličejem. Jistě, znamenalo by to zvýšení rizika mého odhalení, ale ve tmě a za záclonou bych zřejmě zůstal nezpozorován. Jednalo by se o přiměřenou míru rizika, která by za fotografie jejich obličejů stála. Tak jen se otočte, mládenci… No tak, mládenci, jen se na mě podívejte. Ne… směrem k oknu se neotočili, místo toho oba současně začali močit na sklo auta. Proud moči dopadající na sklo vozu se mi zřejmě zachytit nepodaří. Ale už z jejich postojů bude na snímcích nejspíš zřetelné, co provádějí. Výborně. Tak tohle budou rozhodně zatím nejprůkaznější snímky, které jsem tento týden pořídil.
 

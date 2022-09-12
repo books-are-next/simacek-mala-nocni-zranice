@@ -1,12 +1,11 @@
 ---
+title: "Člověk by se třeba i\_rád podělil o\_radost z\_vybojovaného úspěchu\\. S\_manželkou\_— pochopitelně\\. To by ovšem musela být doma, že? Není\\. Takže jí bohužel nepřiblížím průběh hry, jak jsem původně zamýšlel\\. Místo toho tu sedím už několik hodin sám a\_marně se snažím zabránit rytmickému klepání své spodní čelisti do horních zubů\\. Před okamžikem se mi navíc ve stejném rytmu rozklepala i\_levá noha\\. Bohužel mě sužuje tento drobný motorický zlozvyk\\. Postihl mne přibližně před čtyřiceti lety\_— téměř ve stejný okamžik, kdy se mi podařilo definitivně zvítězit nad jiným zlozvykem\_— kousáním nehtů\\."
 contentType: prose
 ---
 
 <section>
 
 pan šedý
-
-Člověk by se třeba i rád podělil o radost z vybojovaného úspěchu. S manželkou — pochopitelně. To by ovšem musela být doma, že? Není. Takže jí bohužel nepřiblížím průběh hry, jak jsem původně zamýšlel. Místo toho tu sedím už několik hodin sám a marně se snažím zabránit rytmickému klepání své spodní čelisti do horních zubů. Před okamžikem se mi navíc ve stejném rytmu rozklepala i levá noha. Bohužel mě sužuje tento drobný motorický zlozvyk. Postihl mne přibližně před čtyřiceti lety — téměř ve stejný okamžik, kdy se mi podařilo definitivně zvítězit nad jiným zlozvykem — kousáním nehtů.
 
 Dnes už nejspíš nic kloudného neudělám. Kdykoli začnu nechtěně poklepávat nohou, naruší to moje soustředění. Ani člověk tak trpělivý a tolerantní, jako jsem já, není prostě úplně obrněný proti rušivým vlivům okolí a snášet donekonečna náladovost starého pána je už místy nad moje síly. Na to, abych si mohl dovolit prosedět celý večer a nechal svůj nervový systém pomalu zpracovávat protivné manýry svého tchána, jsem bohužel příliš zaměstnaný člověk. Vedle náročné výuky na dvou vysokých školách musím také publikovat a k tomu potřebuji klid na práci. Je mi padesát, jsem tedy ve věku, kdy by se již slušelo dosáhnout profesury, že? Prozatím jsem jí nedosáhl a vím naprosto přesně, čemu za to mohu dávat vinu — vysilující šikaně, které jsem v tomto domě vystaven.
 

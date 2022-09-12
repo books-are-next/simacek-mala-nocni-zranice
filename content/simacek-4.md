@@ -1,9 +1,6 @@
 ---
+title: růžence
 contentType: prose
 ---
 
-<section>
 
-růžence
-
-</section>

@@ -1,12 +1,11 @@
 ---
+title: "Přibližně za dvacet minut bych měl být na místě\\. Sjíždím z\_dálnice D2 směrem na Senec, doposud jsem měl průměrnou spotřebu paliva 5,8 litrů na sto kilometrů\\. Pokud nebude příliš hustý provoz, měl bych spotřebu udržet pod šest litrů i\_mimo dálnici\\. Něco přes dvacet kilometrů za Sencem, tedy pětačtyřicet kilometrů východně od Bratislavy, leží město Sládkovičovo\\. Má rozlohu necelých třicet kilometrů čtverečních a\_něco přes pět a\_půl tisíce obyvatel\\. Velký provoz neočekávám, snížím rychlost na 85 kilometrů v\_hodině a\_pouštím CD přehrávač\\."
 contentType: prose
 ---
 
 <section>
 
 pan šedý
-
-Přibližně za dvacet minut bych měl být na místě. Sjíždím z dálnice D2 směrem na Senec, doposud jsem měl průměrnou spotřebu paliva 5,8 litrů na sto kilometrů. Pokud nebude příliš hustý provoz, měl bych spotřebu udržet pod šest litrů i mimo dálnici. Něco přes dvacet kilometrů za Sencem, tedy pětačtyřicet kilometrů východně od Bratislavy, leží město Sládkovičovo. Má rozlohu necelých třicet kilometrů čtverečních a něco přes pět a půl tisíce obyvatel. Velký provoz neočekávám, snížím rychlost na 85 kilometrů v hodině a pouštím CD přehrávač.
 
 Keď si mladosť cestu hľadá, za vzdelaním dvíha pohľad,
 

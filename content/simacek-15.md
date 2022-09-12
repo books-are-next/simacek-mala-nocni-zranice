@@ -1,12 +1,11 @@
 ---
+title: "S\_námahou vystupuji z\_vozu u\_první benzinové stanice směrem na Brno\\. Z\_lednice vezmu velkou láhev balené vody, skoro polovinu hned vypiju a\_pak si chladnou láhev přitisknu na zátylek a\_zavřu oči\\. Maličkost, tohle měla být maličkost, jednoduchý úkol na necelou hodinku, a\_já jsem zatím schvácený hůř než po šichtě v\_uranových dolech\\. Tedy, ovšemže jsem nikdy v\_uranových dolech nebyl, ale nějakou představu o\_tom, s\_jakou námahou se uran dobývá, si snad udělat dokážu\\. Na lecjaké vrtochy svého tchána a\_na jeho nemožné poznámky na mou adresu už bych měl být za ty roky zvyklý\\. Přesto ani po všech těch letech jsem se nedokázal úplně obrnit\\. To mám ovšem za svou velkorysost, nabídl jsem tchánovi drobnou službu a\_on mi z\_pondělního dopoledne udělal peklo\\. Inženýr Hromek musí v\_sobě mít skutečně něco ďábelského, když dokáže člověka během takové chvilky usoužit\\. Měl mi vlastně poděkovat, že? Ale to on ne\\. Samozřejmě jsem od něj neslyšel jediné slovo vděku, místo toho se dokonce opovážil praštit mě po ruce holí, jako nějakého školáka\\. Dnešek mi měl přinést úlevu, měl mě osvobodit, udělat mě konečně pánem svého domu\\."
 contentType: prose
 ---
 
 <section>
 
 pan šedý
-
-S námahou vystupuji z vozu u první benzinové stanice směrem na Brno. Z lednice vezmu velkou láhev balené vody, skoro polovinu hned vypiju a pak si chladnou láhev přitisknu na zátylek a zavřu oči. Maličkost, tohle měla být maličkost, jednoduchý úkol na necelou hodinku, a já jsem zatím schvácený hůř než po šichtě v uranových dolech. Tedy, ovšemže jsem nikdy v uranových dolech nebyl, ale nějakou představu o tom, s jakou námahou se uran dobývá, si snad udělat dokážu. Na lecjaké vrtochy svého tchána a na jeho nemožné poznámky na mou adresu už bych měl být za ty roky zvyklý. Přesto ani po všech těch letech jsem se nedokázal úplně obrnit. To mám ovšem za svou velkorysost, nabídl jsem tchánovi drobnou službu a on mi z pondělního dopoledne udělal peklo. Inženýr Hromek musí v sobě mít skutečně něco ďábelského, když dokáže člověka během takové chvilky usoužit. Měl mi vlastně poděkovat, že? Ale to on ne. Samozřejmě jsem od něj neslyšel jediné slovo vděku, místo toho se dokonce opovážil praštit mě po ruce holí, jako nějakého školáka. Dnešek mi měl přinést úlevu, měl mě osvobodit, udělat mě konečně pánem svého domu.
 
 Jste normální nebo co? zařval na mě pokladní na čerpací stanici a hrubě mě strčil do ramene. Láhev s vodou mi málem vypadla z ruky. Ptám se, jestli jste normální. Co se tady sakra válíte? Tohle je místo pro lidi, kteří si něco objednají. Kávu nebo párky nebo prostě něco. Vy tady dřepíte už půl hodiny a nic, akorát chlemtáte vodu z láhve a ani jste ji nezaplatil. A parkujete mi u stojanu, doprdele, benzinka není parkoviště.
 

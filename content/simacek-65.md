@@ -1,12 +1,11 @@
 ---
+title: "Obcházím nějakou hodinku kolem, abych nedorazil moc brzo, a\_když už je tak čtyřicet minut před zavíračkou, párkrát se nadechnu a\_vykročím dovnitř\\. Moment, sakra, oni tady mají na okně květináče s\_alpskou protěží\\. Tohle jsem ještě neviděl, protěž v\_květináči\\. Jednu si utrhnu a\_jdu dovnitř\\."
 contentType: prose
 ---
 
 <section>
 
 pan syn
-
-Obcházím nějakou hodinku kolem, abych nedorazil moc brzo, a když už je tak čtyřicet minut před zavíračkou, párkrát se nadechnu a vykročím dovnitř. Moment, sakra, oni tady mají na okně květináče s alpskou protěží. Tohle jsem ještě neviděl, protěž v květináči. Jednu si utrhnu a jdu dovnitř.
 
 Vyrazím rovnou k barovýmu pultu a objednávám si kávu na stojáka. Lucia sbírá nádobí u stolku v rohu, pokusím se na zkoušku trochu usmát, než se otočí a všimne si mě. Jo, už si všimla, ještě než jsem si na ksichtě zvládl doladit ten jemnej přátelskej úsměv, takže viděla nejspíš nějakou přípravnou fázi, kdy jsem se zatvářil asi jako mongoloid.
 

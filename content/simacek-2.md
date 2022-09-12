@@ -1,10 +1,9 @@
 ---
+title: © Jiří Šimáček, 2014
 contentType: prose
 ---
 
 <section>
-
-© Jiří Šimáček, 2014
 
 © Host — vydavatelství, s. r. o., 2014 (elektronické vydání)
 

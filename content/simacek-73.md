@@ -1,12 +1,11 @@
 ---
+title: "Takže, jestli u\_nás chybí ten hrdina nebo prosťáček, který dokáže vysvobodit princeznu, tak prostě budu muset být ten prosťáček já\\. Představa hrdiny nebo prince mi ke mně moc nesedí, nechci být nějak okázale skromný, ale prosťáček mi myslím sedí přece jenom o\_trochu líp\\. Takže jsem zvolil postup prosťáčka\_— tu nejjednodušší cestu\\. Den po nečekané návštěvě, kdy mě pan Šedý přišel gentlemansky upozornit, že bych si měl připravit závěť, jsem prostě navštívil advokáta\\."
 contentType: prose
 ---
 
 <section>
 
 pan otec
-
-Takže, jestli u nás chybí ten hrdina nebo prosťáček, který dokáže vysvobodit princeznu, tak prostě budu muset být ten prosťáček já. Představa hrdiny nebo prince mi ke mně moc nesedí, nechci být nějak okázale skromný, ale prosťáček mi myslím sedí přece jenom o trochu líp. Takže jsem zvolil postup prosťáčka — tu nejjednodušší cestu. Den po nečekané návštěvě, kdy mě pan Šedý přišel gentlemansky upozornit, že bych si měl připravit závěť, jsem prostě navštívil advokáta.
 
 Jak to myslíte — nežije? To ho nejdřív musím na půl roku vystěhovat? Vždyť jste mi před chvílí tvrdil, že tohle je nejjednodušší a nejrychlejší možnost.
 

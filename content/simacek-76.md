@@ -1,12 +1,11 @@
 ---
+title: "V\_průměru čtyřiceticentimetrová membrána gigantickýho basáku Torus se lehce pohupuje a\_celej dům je naplněnej příjemně surovým akustickým tlakem\\. V\_domě je prázdno, takže si můžu dopřát skoro koncertní hlasitost\\. Do playlistu jsem si zadal třiadvacet skladeb přesně v\_tomhle pořadí:"
 contentType: prose
 ---
 
 <section>
 
 pan syn
-
-V průměru čtyřiceticentimetrová membrána gigantickýho basáku Torus se lehce pohupuje a celej dům je naplněnej příjemně surovým akustickým tlakem. V domě je prázdno, takže si můžu dopřát skoro koncertní hlasitost. Do playlistu jsem si zadal třiadvacet skladeb přesně v tomhle pořadí:
 
 01: Ecstasy of Cold
 

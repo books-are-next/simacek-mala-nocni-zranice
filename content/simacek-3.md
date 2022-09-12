@@ -1,12 +1,11 @@
 ---
+title: pan syn
 contentType: prose
 ---
 
 <section>
 
 Obsah
-
-[pan syn](./resources/undefined)
 
 [pan otec](./resources/undefined)
 

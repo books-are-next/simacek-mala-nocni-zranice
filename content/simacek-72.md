@@ -1,12 +1,11 @@
 ---
+title: "Stmívá se tak brzy\\. V\_běžný pracovní den by nyní bylo skoro nemožné dostat se domů ještě za světla\\. Ovšem přednášky teď ve zkouškovém období nemám a\_konzultační hodiny jsem si stanovil rozumně v\_dopoledních hodinách\\. V\_domě je teď zcela výjimečně pár dní vzácné ticho a\_daří se mi tu nyní najít vlastně víc klidu na práci než na fakultě\\. Škoda jen, že musím tak časně rozsvěcet světla a\_spotřebovávat proud navíc\\. Stmívá se prostě brzy\\. Rozhrnu záclony a\_zadívám se krátce z\_okna\\. Vypadá to, že bude potřeba natřít plot a\_branku\\. Taky zlatý déšť v\_předzahrádce bude nutné nechat ostříhat\\. Už roky se o\_dům nikdo pořádně nestará a\_je to vidět\\. Ale letos, hned se začátkem jara, to tady dám všechno do pořádku\\."
 contentType: prose
 ---
 
 <section>
 
 pan šedý
-
-Stmívá se tak brzy. V běžný pracovní den by nyní bylo skoro nemožné dostat se domů ještě za světla. Ovšem přednášky teď ve zkouškovém období nemám a konzultační hodiny jsem si stanovil rozumně v dopoledních hodinách. V domě je teď zcela výjimečně pár dní vzácné ticho a daří se mi tu nyní najít vlastně víc klidu na práci než na fakultě. Škoda jen, že musím tak časně rozsvěcet světla a spotřebovávat proud navíc. Stmívá se prostě brzy. Rozhrnu záclony a zadívám se krátce z okna. Vypadá to, že bude potřeba natřít plot a branku. Taky zlatý déšť v předzahrádce bude nutné nechat ostříhat. Už roky se o dům nikdo pořádně nestará a je to vidět. Ale letos, hned se začátkem jara, to tady dám všechno do pořádku.
 
 „Muž není skutečným mužem, dokud nevlastní dům. Muži, kteří mají vlastní dům, jsou ctihodnější, čestnější, čistší.“ Možná maličko úsměvný citát ctihodného Russella Conwella, baptistického kazatele a právníka a tak trochu vlastně i mého kolegy. V jistých ohledech bych se odvažoval přiřadit Russella Conwella ke svým předchůdcům. Jistě že Conwell uvažoval pouze na intuitivní úrovni, byl to muž s jakýmsi předvědeckým způsobem myšlení, ale v určitých otázkách se dotkl hranic oboru osobního managementu. Dostal jsem lehounce kacířský, až provokativní nápad ocitovat pozítří v Banské Bystrici několik sentencí z pana Conwella. Cha. Představuji si pootevřená ústa a spadlé brady některých svých kolegů. Cha. Kolik z nich má asi vlastní dům? A kolik jich je důkladně obeznámeno se slavnou řečí Diamantová pole od starého dobráka Conwella? Kolik z nich má schopnost těžit diamanty takříkajíc na vlastním dvorku, jak učil starý Conwell?
 

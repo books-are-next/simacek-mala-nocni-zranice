@@ -2,8 +2,9 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Malá noční žranice
   identifier: urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b
   author: Jiří Šimáček
@@ -107,6 +108,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

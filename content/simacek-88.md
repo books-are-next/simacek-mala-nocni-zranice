@@ -1,12 +1,11 @@
 ---
+title: "Takhle nějak budu nejspíš vypadat, až budu starej\\. Docela jsem se vylekal\\. Teda můj vlastní ksicht mě vylekal, když jsem se viděl v\_koupelně\\. Musel jsem zhubnout dobrejch deset kilo\\. Ne že bych snad držel nějakou dietu, akorát jsem prostě nevstával z\_postele a\_nechtělo se mi shánět se po nějakým jídle\\. Tohle by se dalo prodávat jako nějaká dieta, stačí prostě dva tejdny nevylejzat z\_postele a\_hned je deset kilo dole\\."
 contentType: prose
 ---
 
 <section>
 
 pan syn
-
-Takhle nějak budu nejspíš vypadat, až budu starej. Docela jsem se vylekal. Teda můj vlastní ksicht mě vylekal, když jsem se viděl v koupelně. Musel jsem zhubnout dobrejch deset kilo. Ne že bych snad držel nějakou dietu, akorát jsem prostě nevstával z postele a nechtělo se mi shánět se po nějakým jídle. Tohle by se dalo prodávat jako nějaká dieta, stačí prostě dva tejdny nevylejzat z postele a hned je deset kilo dole.
 
 Pomalu se šourám do přízemí; pokusím se dát aspoň trochu dohromady. Nejdřív bych si asi měl udělat kávu, pak si aspoň čuchnout k troše tabáku a pak uvidím, jestli bych nezvládl třeba něco malýho sníst. Přišlo to docela rychle a automaticky. Ani jsem to nečekal, ale stačilo mi dát si kávu a otevřít ledničku a okamžitě musím naprázdno polykat sliny, dostavuje se úplně živočišnej hlad. A to jsem se sakra bál, že po takový době nebudu mít vůbec chuť k jídlu a nic do sebe nedostanu. Stojím opřenej o ledničku a ukusuju z malý štangle nějakýho sušenýho salámu, obalenýho ve vrstvě pepře. To vůbec není špatný, rychle projíždím lednici, moc tady toho není, ale já už si nějak poradím. Kuličky pepře mi praskají v puse a pálí mě, a tak automaticky sáhnu pro pivko. Pivko tady naštěstí je. Teď mi došlo, že jsem nejspíš zatraceně dehydrovanej. Něco si pustím a pak si nachystám menší snídani. Když vlezu do pokoje, vidím, že bedýnky jsou zakrytý igelitama a nacpaný v rohu místnosti. Nojo, takhle jsem je tu nechal, to si pamatuju. Teď nemám skoro sílu je znovu rozestavovat, tak jenom roztrhnu igelity. První, co mě napadne pustit, je My Dying Bride — to asi udělal ten můj ksicht před chvílí v zrcadle. Prostě jsem se probral s náladou na doom, na něco temnýho, hustýho a pomalýho. Pustím to tak, abych to slyšel i vedle v kuchyni, a jdu trochu probrat lednici.
 
